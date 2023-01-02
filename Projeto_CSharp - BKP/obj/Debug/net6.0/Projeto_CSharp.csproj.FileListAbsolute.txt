@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\Projeto_CSharp\bin\Debug\net6.0\Projeto_CSharp.exe
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\Projeto_CSharp\bin\Debug\net6.0\Projeto_CSharp.deps.json
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\Projeto_CSharp\bin\Debug\net6.0\Projeto_CSharp.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\Projeto_CSharp\bin\Debug\net6.0\Projeto_CSharp.dll
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\Projeto_CSharp\bin\Debug\net6.0\Projeto_CSharp.pdb
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\Projeto_CSharp\obj\Debug\net6.0\Projeto_CSharp.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\Projeto_CSharp\obj\Debug\net6.0\Projeto_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\Projeto_CSharp\obj\Debug\net6.0\Projeto_CSharp.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\Projeto_CSharp\obj\Debug\net6.0\Projeto_CSharp.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\Projeto_CSharp\obj\Debug\net6.0\Projeto_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\Projeto_CSharp\obj\Debug\net6.0\Projeto_CSharp.dll
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\Projeto_CSharp\obj\Debug\net6.0\refint\Projeto_CSharp.dll
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\Projeto_CSharp\obj\Debug\net6.0\Projeto_CSharp.pdb
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\Projeto_CSharp\obj\Debug\net6.0\Projeto_CSharp.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\Projeto_CSharp\obj\Debug\net6.0\ref\Projeto_CSharp.dll

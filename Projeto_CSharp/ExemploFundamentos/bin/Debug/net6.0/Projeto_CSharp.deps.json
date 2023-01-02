@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Projeto_CSharp/1.0.0": {
+        "dependencies": {
+          "ExemploFundamentos.Common": "1.0.0"
+        },
+        "runtime": {
+          "Projeto_CSharp.dll": {}
+        }
+      },
+      "ExemploFundamentos.Common/1.0.0": {
+        "runtime": {
+          "ExemploFundamentos.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto_CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExemploFundamentos.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
