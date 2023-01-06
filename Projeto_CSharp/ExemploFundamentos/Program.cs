@@ -327,7 +327,7 @@ foreach(int valor  in arrayInteiros)
 
 
 //Listas - A diferença entre o array é que não precisa passar o tamanho dessa lista 
-//Muito melhor de se trabalhar pois tem mais metados
+//Muito melhor de se trabalhar pois tem mais metadados
 List<string> listaString = new List<string>();
 
 listaString.Add("SP");
