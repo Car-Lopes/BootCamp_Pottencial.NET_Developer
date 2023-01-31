@@ -142,3 +142,41 @@ https://github.com/leonardo-buta/exemplo-fundamentos-dio
 Documentação Oficial da Microsoft:
 
 https://docs.microsoft.com/pt-br/dotnet/csharp/
+
+
+Propriedades 
+https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/classes-and-structs/properties
+
+Metodos 
+https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/classes-and-structs/methods
+
+Construtores
+https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/classes-and-structs/constructors
+
+
+Manipulando Valores
+https://www.c-sharpcorner.com/blogs/date-and-time-format-in-c-sharp-programming1
+
+https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/tokens/interpolated
+
+https://docs.microsoft.com/pt-br/dotnet/standard/base-types/custom-numeric-format-strings
+
+https://docs.microsoft.com/pt-br/dotnet/api/system.datetime
+
+https://riptutorial.com/csharp/example/19285/datetime-tryparseexact-string--string--iformatprovider--datetimestyles--datetime-
+
+
+Exceções 
+https://docs.microsoft.com/pt-br/dotnet/csharp/fundamentals/exceptions
+
+Distionary
+https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.dictionary-2
+
+https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/concepts/collections
+https://docs.microsoft.com/pt-br/dotnet/api/system.collections.generic.dictionary-2
+https://docs.microsoft.com/pt-br/dotnet/csharp/fundamentals/exceptions
+
+
+
+
+

@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.exe
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.deps.json
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.dll
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.pdb
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.dll
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\ExemploExplorando\obj\Debug\net6.0\refint\ExemploExplorando.dll
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.pdb
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\BootCamp_Pottencial.NET_Developer\ExemploExplorando\obj\Debug\net6.0\ref\ExemploExplorando.dll

@@ -1,0 +1,2 @@
+Linha 1 Criei esse aqrquivo para fazer o programa ler esse arquivo.
+Linha 2 O programa leu o arquivo
